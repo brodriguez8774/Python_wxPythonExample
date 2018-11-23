@@ -1,5 +1,5 @@
 
-# wxPython Test
+# wxPython Example
 
 ## Author
 Brandon Rodriguez

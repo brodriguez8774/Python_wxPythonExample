@@ -1,5 +1,5 @@
 """
-Test of how wxPython's interface works.
+Basic example of how wxPython's interface works.
 """
 
 import wx
