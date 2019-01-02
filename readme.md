@@ -1,5 +1,5 @@
 
-# wxPython Example
+# Python - wxPython Example
 
 ## Author
 Brandon Rodriguez
